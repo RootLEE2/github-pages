@@ -1,0 +1,4 @@
+title: Redirect Pages
+theme: minima
+plugins:
+  - jekyll-redirect-from
